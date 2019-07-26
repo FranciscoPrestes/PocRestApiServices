@@ -17,3 +17,22 @@ C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.We
 C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.csproj.CopyComplete
 C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.dll
 C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.pdb
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.deps.json
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.runtimeconfig.json
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.runtimeconfig.dev.json
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.dll
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.pdb
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Usuarios.dll
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.dll
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Usuarios.pdb
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.AuthProvider\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.pdb
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.csprojAssemblyReference.cache
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.csproj.CoreCompileInputs.cache
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.RazorAssemblyInfo.cache
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.RazorAssemblyInfo.cs
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.AssemblyInfoInputs.cache
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.AssemblyInfo.cs
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.RazorTargetAssemblyInfo.cache
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.csproj.CopyComplete
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.dll
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.AuthProvider\obj\Debug\netcoreapp2.1\Alura.WebAPI.AuthProvider.pdb

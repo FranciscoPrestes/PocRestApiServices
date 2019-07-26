@@ -14,3 +14,19 @@ C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.Li
 C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.csproj.CopyComplete
 C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.dll
 C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.pdb
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.deps.json
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.runtimeconfig.json
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.runtimeconfig.dev.json
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.dll
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.pdb
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.dll
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.pdb
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.csprojAssemblyReference.cache
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.csproj.CoreCompileInputs.cache
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.AssemblyInfoInputs.cache
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.AssemblyInfo.cs
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.csproj.CopyComplete
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.dll
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.pdb

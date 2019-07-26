@@ -33,3 +33,38 @@ C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.We
 C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.csproj.CopyComplete
 C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.dll
 C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.pdb
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.deps.json
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.runtimeconfig.json
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.runtimeconfig.dev.json
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.dll
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.pdb
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.Views.dll
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.Views.pdb
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.dll
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.pdb
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.csprojAssemblyReference.cache
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.csproj.CoreCompileInputs.cache
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.RazorAssemblyInfo.cache
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.RazorAssemblyInfo.cs
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.AssemblyInfoInputs.cache
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.AssemblyInfo.cs
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.TagHelpers.input.cache
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.TagHelpers.output.cache
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.RazorCoreGenerate.cache
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Livro\Detalhes.g.cshtml.cs
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Livro\Novo.g.cshtml.cs
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Livro.g.cshtml.cs
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\NovoLivro.g.cshtml.cs
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Login.g.cshtml.cs
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Register.g.cshtml.cs
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.RazorTargetAssemblyInfo.cache
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.RazorTargetAssemblyInfo.cs
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.Views.pdb
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.csproj.CopyComplete
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.dll
+C:\Wonking\Studing\Rest\simple\PocRestApiServices\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.pdb
